@@ -1,0 +1,6 @@
+whatever you put here will load at localhost:8080.
+it will find index.html file
+
+another way is to add html file in template, spring will load via template engine
+also in that case you have to add root path to html via Controller
+check coronavirus-tracker
